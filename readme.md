@@ -15,5 +15,5 @@ Le message est important
 Permet de pousser les modifications en ligne
 
 ## git status
-Permet de vérifier le status du répertoire
-permet de lister les modifications à traiter
+- Permet de vérifier le status du répertoire
+- permet de lister les modifications à traiter
