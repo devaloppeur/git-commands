@@ -13,3 +13,7 @@ Le message est important
 
 ## git push
 Permet de pousser les modifications en ligne
+
+## git status
+Permet de vérifier le status du répertoire
+permet de lister les modifications à traiter
